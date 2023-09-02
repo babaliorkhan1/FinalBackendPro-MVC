@@ -1,0 +1,285 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1440px;
+}
+.navbar1{
+    width: 1440px;
+text-align: center;
+font-size: 34px;
+color: orange;
+}
+.welcome{
+    margin-top: 10px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.welcome1{
+    width: 373px;
+}
+.welcome1 img{
+    width: 100%;
+}
+
+.welcome2{
+    width: 560px;
+
+}
+.welcome2 p{
+font-size: 16px;
+}
+
+.welcomee{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    align-items: center;
+     height: 420px;
+}
+
+
+.welcomee1{
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+
+}
+
+.welcomee2 {
+width: 360px;
+}
+.welcomee2 img{
+    width: 100%;
+}
+
+
+@media screen and (max-width: 1140px) {
+    .container{
+        width:800px ;
+    }
+
+    .navbar1{
+        width:1140px;
+    text-align: center;
+    font-size: 24px;
+    color: orange;
+    }
+    .welcome{
+        margin-top: 10px;
+        height: 360px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        column-gap: 10px;
+    }
+    
+    .welcome1{
+        width: 270px;
+    }
+    .welcome2 h2{
+font-size: 18px;
+    }
+
+    .welcome2 p{
+        font-size: 14px;
+    }
+    .welcome1 img{
+        width: 100%;
+    }
+    
+    .welcome2{
+        width: 460px;
+    
+    }
+   
+    
+    .welcomee{
+        display: flex;
+        column-gap: 10px;
+        
+         height: 320px;
+    }
+    
+    
+    .welcomee1{
+        width: 400px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+    
+    }
+    
+    .welcomee2 {
+    width: 250px;
+    }
+    .welcomee2 img{
+        width: 100%;
+    }
+    
+
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+    .container{
+        width:500px ;
+    }
+
+    .navbar1{
+        width:500px;
+    text-align: center;
+    font-size: 18px;
+    color: orange;
+    }
+    .welcome{
+        margin-top: 10px;
+        height: 240px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        column-gap: 5px;
+    }
+    
+    .welcome1{
+        width: 200px;
+    }
+    .welcome2 h2{
+font-size: 14px;
+    }
+
+    .welcome2 p{
+        font-size: 10px;
+    }
+    .welcome1 img{
+        width: 100%;
+    }
+    
+    .welcome2{
+        width: 260px;
+    
+    }
+    .welcome2 p{
+    font-size: 10px;
+    }
+    
+    .welcomee{
+        display: flex;
+        column-gap: 10px;
+        
+         height: 240px;
+    }
+    
+    
+    .welcomee1{
+        width: 260px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+    
+    }
+    .welcomee1 h2{
+        font-size: 14px;
+    }
+    .welcomee1 p{
+font-size: 10px;
+    }
+    
+    .welcomee2 {
+    width: 200px;
+    }
+    .welcomee2 img{
+        width: 100%;
+    }
+    
+
+}
+
+
+
+
+
+@media screen and (max-width: 500px) {
+    .container{
+        width:300px ;
+    }
+
+    .navbar1{
+        width:300px;
+    text-align: center;
+    font-size: 15px;
+    color: orange;
+    }
+    .welcome{
+        margin-top: 40px;
+        height: 140px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        column-gap: 5px;
+    }
+    
+    .welcome1{
+        width: 100px;
+    }
+    .welcome2 h2{
+font-size: 10px;
+    }
+
+    .welcome2 p{
+        font-size: 8px;
+    }
+    .welcome1 img{
+        width: 100%;
+    }
+    
+    .welcome2{
+        width: 160px;
+    
+    }
+    .welcome2 p{
+    font-size: 8px;
+    }
+    
+    .welcomee{
+        margin-top: 20px;
+        display: flex;
+        column-gap: 10px;
+        
+         height: 180px;
+    }
+    
+    
+    .welcomee1{
+        width: 170px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+    
+    }
+    .welcomee1 h2{
+        font-size: 12px;
+    }
+    .welcomee1 p{
+font-size: 8px;
+    }
+    
+    .welcomee2 {
+    width: 120px;
+    }
+    .welcomee2 img{
+        width: 100%;
+    }
+    
+
+}

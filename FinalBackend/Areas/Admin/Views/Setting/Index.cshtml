@@ -1,0 +1,69 @@
+﻿@model Setting
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+@if (!string.IsNullOrWhiteSpace((string)TempData["admin"]))
+{
+    <div style="display:none" id="alert-message">@TempData["admin"]</div>
+}
+<div class="container">
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Image</th>
+                <th scope="col">Title1</th>
+                <th scope="col">Title2</th>
+                <th scope="col">Update</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+
+                <tr>
+                    <th scope="row">@Model.Id</th>
+                    <th>@Model.Title</th>
+                    <th>@Model.AllTitle</th>
+                    <th>@Model.AboutText1</th>
+                    <td><a asp-controller="setting" asp-action="update" asp-route-id="@Model.Id"><i class="fas fa-edit text text-primary"></i></a></td>
+                    <td><a onclick="if(!confirm('Are Your Sure?')){return false;}" asp-controller="setting" asp-action="delete" asp-route-id="@Model.Id" class=" delete-item"><i class="fas fa-trash text text-danger"></i></a></td>
+                </tr>
+
+        </tbody>
+    </table>
+    <div>
+        <a asp-controller="setting" asp-action="create" style="display: block; text-decoration: none; color: white; width: 100%; height: 100%"> <div style="width:100%; " class="btn btn-outline-success">Blog yarat </div></a>
+    </div>
+
+</div>
+
+
+
+<script>
+    const alertmessage = document.getElementById("alert-message")
+    if (alertmessage != undefined) {
+        const message = alertmessage.innerHTML;
+
+        if (message != "") {
+            Swal.fire({
+                title: `${message}`,
+                width: 600,
+                padding: '3em',
+                color: '#716add',
+                background: '#fff url(/images/trees.png)',
+                backdrop: `
+                rgba(0,0,123,0.4)
+                url("/images/nyan-cat.gif")
+                left top
+                no-repeat
+              `
+            })
+
+        }
+    }
+</script>
+
+
+
+
+
+@*burada maragli bir olay odurki return false qoymurki a tago hereket edir bir nov preventdefault ozeliiyi atamis olur*@

@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\assets\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Final2\\index.css",
+      "PackagePath": "staticwebassets\\assets\\Final2\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Final3\\final3.css",
+      "PackagePath": "staticwebassets\\assets\\Final3\\final3.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Final4\\index2.css",
+      "PackagePath": "staticwebassets\\assets\\Final4\\index2.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Final5\\index3.css",
+      "PackagePath": "staticwebassets\\assets\\Final5\\index3.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\HomepaGE\\carousel.css",
+      "PackagePath": "staticwebassets\\assets\\HomepaGE\\carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\HomepaGE\\carousel.html",
+      "PackagePath": "staticwebassets\\assets\\HomepaGE\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\HomepaGE\\style.css",
+      "PackagePath": "staticwebassets\\assets\\HomepaGE\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\0a4603ef-77a5-4f63-9dc3-2e8038812f93car.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\0a4603ef-77a5-4f63-9dc3-2e8038812f93car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\16093c55-e021-4d33-8f04-4e265480515fMask Group (2).png",
+      "PackagePath": "staticwebassets\\assets\\Images\\16093c55-e021-4d33-8f04-4e265480515fMask Group (2).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\21135425-e796-40f0-b3c5-a58c12aa404aimages (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\21135425-e796-40f0-b3c5-a58c12aa404aimages (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\2a057833-5dc1-4c66-8862-0f6cc9c519e6download (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\2a057833-5dc1-4c66-8862-0f6cc9c519e6download (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\2e9cacf9-9e73-4e45-a249-d8d75208e718images (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\2e9cacf9-9e73-4e45-a249-d8d75208e718images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\3ff60f66-d0f9-4c9a-b89f-2c2952c3d0d3kia forte 1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\3ff60f66-d0f9-4c9a-b89f-2c2952c3d0d3kia forte 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\404.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\405.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\405.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\4a2ff3b7-2167-4867-be3c-7c5c703f0b68car.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\4a2ff3b7-2167-4867-be3c-7c5c703f0b68car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\4e9a91c0-d309-4487-ac18-d58cbe1becd1images (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\4e9a91c0-d309-4487-ac18-d58cbe1becd1images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\53a22bea-c2fe-4979-bbe0-f49af48366f4Mask Group (2).png",
+      "PackagePath": "staticwebassets\\assets\\Images\\53a22bea-c2fe-4979-bbe0-f49af48366f4Mask Group (2).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\58194542-f7ef-46f3-9046-a24202ccca53images (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\58194542-f7ef-46f3-9046-a24202ccca53images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\5a397268-f453-4a88-ba3d-cc832001506cMask Group (2).png",
+      "PackagePath": "staticwebassets\\assets\\Images\\5a397268-f453-4a88-ba3d-cc832001506cMask Group (2).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\5e94c1fb-92e8-43a6-8cca-53bd14ed216ddownload (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\5e94c1fb-92e8-43a6-8cca-53bd14ed216ddownload (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\5f08a1c8-c32b-4c67-9469-bb43c9067168download (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\5f08a1c8-c32b-4c67-9469-bb43c9067168download (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\6f1bf561-f3e9-41e2-9e08-01ccce94848bimages (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\6f1bf561-f3e9-41e2-9e08-01ccce94848bimages (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\778f708a-a00d-4292-af39-1dfae6939ecbdownload (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\778f708a-a00d-4292-af39-1dfae6939ecbdownload (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\789e0905-2cec-4b09-933b-a0aebf35806ckia forte 1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\789e0905-2cec-4b09-933b-a0aebf35806ckia forte 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\7c4133f2-837c-44ca-848d-26465b05e9fcdownload (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\7c4133f2-837c-44ca-848d-26465b05e9fcdownload (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\84379eb5-92a4-4291-8e98-8e7c87b8df9bdownload (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\84379eb5-92a4-4291-8e98-8e7c87b8df9bdownload (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\9bfbcb8d-56ec-4738-aa5a-652de56a9420Mask Group (2).png",
+      "PackagePath": "staticwebassets\\assets\\Images\\9bfbcb8d-56ec-4738-aa5a-652de56a9420Mask Group (2).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\9c9ba6a3-01f0-4624-b6be-c0d6920091f5images (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\9c9ba6a3-01f0-4624-b6be-c0d6920091f5images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Mask Group.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Mask Group.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Rectangle 209.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Rectangle 209.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Rectangle 245 (1).png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Rectangle 245 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Rectangle 245 (3).png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Rectangle 245 (3).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Rectangle 245 (4).png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Rectangle 245 (4).png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Rectangle 245.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Rectangle 245.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Vector.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Vector.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\Vector.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\a43014b0-bcab-4e16-a53b-a1b02cffb515download (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\a43014b0-bcab-4e16-a53b-a1b02cffb515download (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\a5b58358-ea51-4733-b499-24643de41fe1images (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\a5b58358-ea51-4733-b499-24643de41fe1images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\afn logo white text 1.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\afn logo white text 1.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\bars-solid.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\bars-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\ca1c9527-07b6-42d4-bcfd-0b88e45f1da7download (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\ca1c9527-07b6-42d4-bcfd-0b88e45f1da7download (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car1.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car1.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car3.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car3.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car4.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car4.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car44.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car44.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car5.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car5.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car55.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car55.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car6.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car6.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car7.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car7.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\car8.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\car8.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\da2ed751-462c-4f46-a650-00c2b561d071download (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\da2ed751-462c-4f46-a650-00c2b561d071download (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\date.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\date.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\download (15).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\download (15).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\download22.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\download22.png"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\ef6348f5-c7f5-41d6-bd3a-88e35653794eimages (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\ef6348f5-c7f5-41d6-bd3a-88e35653794eimages (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\f74529e6-d09c-48e3-8cc7-9bf585060413download (16).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\f74529e6-d09c-48e3-8cc7-9bf585060413download (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\hamburger.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\hamburger.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\home.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\image.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\image.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\image2.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\image2.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\image3.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\image3.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\image77.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\image77.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\images (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\Images\\kia.svg",
+      "PackagePath": "staticwebassets\\assets\\Images\\kia.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\images1\\image10.svg",
+      "PackagePath": "staticwebassets\\assets\\images1\\image10.svg"
+    },
+    {
+      "Id": "C:\\Users\\MERDAN\\Music\\FinalBackend\\FinalBackend\\wwwroot\\assets\\images1\\image9.svg",
+      "PackagePath": "staticwebassets\\assets\\images1\\image9.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FinalBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FinalBackend.props",
+      "PackagePath": "build\\FinalBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalBackend.props",
+      "PackagePath": "buildMultiTargeting\\FinalBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FinalBackend.props",
+      "PackagePath": "buildTransitive\\FinalBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,512 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 1440px;
+    margin: auto;
+}
+
+
+.root1{
+    display: flex;
+    height: 40px;
+}
+
+.root2{
+    display: flex;
+    column-gap: 5px;
+         
+}
+
+.root2 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: brown;
+}
+
+.welcome{
+    height:300px;
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+
+.welcome2{
+    width: 400px;
+    height: 280px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    padding: 10px;
+    
+}
+
+.welcome2 h2{
+    font-size: 22px;
+}
+.welcome2 h4{
+    font-size: 20px;
+}
+
+.welcome2 p{
+    font-size: 17px;
+}
+
+.welcome2 a{
+    font-size: 19px;
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    padding: 9px;
+    border-radius: 8px;
+}
+
+
+
+
+#BCarousel {
+    height: 300px;
+    width: 500px;
+    color: white;
+    }
+    .item{
+    text-align: center;
+    }
+.item img{
+    width: 100%;
+}
+
+
+.terms{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.terms1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+}
+
+.term1{
+    width: 330px;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+}
+.term1 div{
+   display: flex;
+   flex-direction: column;
+}
+
+.others{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.others1{
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.other1{
+    width: 280px;
+    height: 350px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+}
+.other1 h2{
+    font-size: 22px;
+    color: orange;
+
+}
+.other1 p{
+    font-size: 18px;
+    color: orange;
+}
+
+.other1 h4{
+    font-size: 20px;
+    color: orange;
+}
+
+.other1 div{
+    display: flex;
+    column-gap: 15px;
+    color: orange;
+}
+
+.other1 a{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: orange;
+    color: black;
+    padding: 8px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1140px){
+.container{
+    width: 700px;
+}
+
+
+.root1{
+    display: flex;
+    height: 30px;
+}
+
+.root2{
+    display: flex;
+    column-gap: 2px;
+         
+}
+
+.root2 a{
+    font-size: 16px;
+    text-decoration: none;
+    color: brown;
+}
+
+.welcome{
+    height:250px;
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+}
+
+.welcome2{
+    width: 320px;
+    height: 230px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    padding: 3px;
+    
+}
+
+.welcome2 h2{
+    font-size: 17px;
+}
+.welcome2 h4{
+    font-size: 15px;
+}
+
+.welcome2 p{
+    font-size: 10px;
+}
+
+.welcome2 a{
+    font-size: 13px;
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    padding: 3px;
+    border-radius: 6px;
+}
+
+
+
+
+#BCarousel {
+    height: 200px;
+    width: 370px;
+    color: white;
+    }
+    .item{
+    text-align: center;
+    }
+.item img{
+    width: 100%;
+}
+
+
+.terms{
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.terms1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.term1{
+    width: 120px;
+    height: 70px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+}
+.term1 div{
+   display: flex;
+   flex-direction: column;
+}
+
+.others{
+    height: 390px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.others1{
+    display: flex;
+    column-gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.other1{
+    width: 160px;
+    height: 280px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+}
+.other1 h2{
+    font-size: 18px;
+    color: orange;
+
+}
+.other1 p{
+    font-size: 15px;
+    color: orange;
+}
+
+.other1 h4{
+    font-size: 16px;
+    color: orange;
+}
+
+.other1 div{
+    display: flex;
+    column-gap: 10px;
+    color: orange;
+}
+
+.other1 a{
+    text-decoration: none;
+    font-size: 16px;
+    background-color: orange;
+    color: black;
+    padding: 8px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 700px){
+    .container{
+        width: 300px;
+    }
+    
+    
+    .root1{
+        display: flex;
+        height: 20px;
+    }
+    
+    .root2{
+        display: flex;
+        column-gap: 2px;
+             
+    }
+    
+    .root2 a{
+        font-size: 12px;
+        text-decoration: none;
+        color: brown;
+    }
+    
+    .welcome{
+        height:400px;
+        display: flex;
+        column-gap: 5px;
+        justify-content: center;
+        align-items: center;
+        row-gap: 10px;
+        flex-direction: column;
+    }
+    
+    .welcome2{
+        width: 200px;
+        height: 180px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+        padding: 3px;
+        
+    }
+    
+    .welcome2 h2{
+        font-size: 15px;
+    }
+    .welcome2 h4{
+        font-size: 13px;
+    }
+    
+    .welcome2 p{
+        font-size: 11px;
+    }
+    
+    .welcome2 a{
+        font-size: 12px;
+        text-decoration: none;
+        background-color: orange;
+        color: black;
+        border-radius: 6px;
+    }
+    
+    
+    
+    
+    #BCarousel {
+        height: 115px;
+        width: 200px;
+        }
+        .item{
+        text-align: center;
+        }
+    .item img{
+        width: 100%;
+        height: 100%;
+    }
+    
+    
+    .terms{
+        height: 70px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .terms1{
+        display: flex;
+        justify-content: center;
+    flex-wrap: wrap;
+    }
+    
+    .term1{
+        width: 60px;
+        height: 40px;
+        padding: 5px;
+        display: flex;
+        align-items: center;
+        column-gap: 5px;
+        box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    }
+    .term1 img{
+        width: 20px;
+        height: 20px;
+    }
+
+    .term1 p{
+        font-size: 8px;
+    }
+   
+    .others{
+        height: 1000px;
+        display: flex;
+     justify-content: center;
+        
+    }
+
+    .others1{
+        display: flex;
+        flex-direction: column;
+        row-gap: 40px;
+    }
+    
+ 
+    
+    .other1{
+        width: 180px;
+        height: 210px;
+        padding: 5px;
+        display: flex;
+        flex-direction: column;
+        box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+    }
+    .other1 h2{
+        font-size: 14px;
+        color: orange;
+    
+    }
+    .other1 p{
+        font-size: 8px;
+        color: orange;
+    }
+    
+    .other1 h4{
+        font-size: 11px;
+        color: orange;
+    }
+    
+    .other1 div{
+        display: flex;
+        column-gap: 5px;
+        color: orange;
+    }
+    
+    .other1 a{
+        text-decoration: none;
+        font-size: 10px;
+        background-color: orange;
+        color: black;
+        padding: 8px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+    }
+    .review{
+        margin-top: 40px;
+        margin-bottom: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .review img{
+        width: 50px;
+        height: 50px;
+    }
+    .review span{
+        font-size: 13px;
+    }
+    
+    }
+    

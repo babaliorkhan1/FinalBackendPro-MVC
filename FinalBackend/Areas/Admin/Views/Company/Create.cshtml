@@ -1,0 +1,70 @@
+﻿@model Company
+
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Title1"></label>
+            <input type="text" class="form-control" asp-for="Title1" />
+            <span class="text text-danger" asp-validation-for="Title1"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Title2"></label>
+            <input type="text" class="form-control" asp-for="Title2" />
+            <span class="text text-danger" asp-validation-for="Title2"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Title3"></label>
+            <input type="text" class="form-control" asp-for="Title3" />
+            <span class="text text-danger" asp-validation-for="Title3"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Description1"></label>
+            <input type="text" class="form-control" asp-for="Description1" />
+            <span class="text text-danger" asp-validation-for="Description1"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Description2"></label>
+            <input type="text" class="form-control" asp-for="Description2" />
+            <span class="text text-danger" asp-validation-for="Description2"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Description3"></label>
+            <input type="text" class="form-control" asp-for="Description3" />
+            <span class="text text-danger" asp-validation-for="Description3"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="Description4"></label>
+            <input type="text" class="form-control" asp-for="Description4" />
+            <span class="text text-danger" asp-validation-for="Description4"></span>
+
+        </div>
+          <div class="form-group">
+      <label asp-for="Description5"></label>
+            <input type="text" class="form-control" asp-for="Description5" />
+            <span class="text text-danger" asp-validation-for="Description5"></span>
+
+        </div>
+      
+
+        <div class="form-group">
+            <label asp-for="FormFile1"></label>
+            <input accept="image/*" type="file" class="form-control" asp-for="FormFile1" />
+            <span class="text text-danger" asp-validation-for="FormFile1"></span>
+
+        </div>
+        <div class="form-group">
+            <label asp-for="FormFile2"></label>
+            <input accept="image/*" type="file" class="form-control" asp-for="FormFile2" />
+            <span class="text text-danger" asp-validation-for="FormFile2"></span>
+
+        </div>
+        @Html.AntiForgeryToken()
+        <button type="submit">Create</button>
+    </form>
+</div>
